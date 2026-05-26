@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Tooling and Local CLI configs
+.antigravitycli/
+outputs/
+
+# Local uploads and temporary files
+uploads/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

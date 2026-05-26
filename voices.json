@@ -1,0 +1,19 @@
+{
+  "voices": [
+    { "id": "pt-BR-FranciscaNeural",           "name": "Francisca", "lang": "pt-BR", "gender": "female", "style": "professional", "description": "Clara e profissional — ideal para URA", "sample_url": "/ura/samples/pt-BR-FranciscaNeural.mp3" },
+    { "id": "pt-BR-AntonioNeural",              "name": "Antonio",   "lang": "pt-BR", "gender": "male",   "style": "professional", "description": "Firme e natural", "sample_url": "/ura/samples/pt-BR-AntonioNeural.mp3" },
+    { "id": "pt-BR-ThalitaMultilingualNeural",  "name": "Thalita",   "lang": "pt-BR", "gender": "female", "style": "warm",         "description": "Versátil e calorosa", "sample_url": "/ura/samples/pt-BR-ThalitaMultilingualNeural.mp3" },
+    { "id": "pt-BR-BrendaNeural",               "name": "Brenda",    "lang": "pt-BR", "gender": "female", "style": "friendly",     "description": "Tom jovem e amigável", "sample_url": "/ura/samples/pt-BR-BrendaNeural.mp3" },
+    { "id": "pt-BR-DonatoNeural",               "name": "Donato",    "lang": "pt-BR", "gender": "male",   "style": "warm",         "description": "Voz masculina calorosa", "sample_url": "/ura/samples/pt-BR-DonatoNeural.mp3" },
+    { "id": "pt-BR-ElzaNeural",                 "name": "Elza",      "lang": "pt-BR", "gender": "female", "style": "neutral",      "description": "Neutra e profissional", "sample_url": "/ura/samples/pt-BR-ElzaNeural.mp3" },
+    { "id": "pt-BR-GiovannaNeural",             "name": "Giovanna",  "lang": "pt-BR", "gender": "female", "style": "expressive",   "description": "Expressiva e dinâmica", "sample_url": "/ura/samples/pt-BR-GiovannaNeural.mp3" },
+    { "id": "pt-BR-HumbertoNeural",             "name": "Humberto",  "lang": "pt-BR", "gender": "male",   "style": "neutral",      "description": "Neutro e claro", "sample_url": "/ura/samples/pt-BR-HumbertoNeural.mp3" },
+    { "id": "pt-BR-JulioNeural",                "name": "Julio",     "lang": "pt-BR", "gender": "male",   "style": "casual",       "description": "Casual e natural", "sample_url": "/ura/samples/pt-BR-JulioNeural.mp3" },
+    { "id": "pt-BR-LeilaNeural",                "name": "Leila",     "lang": "pt-BR", "gender": "female", "style": "warm",         "description": "Calorosa e acolhedora", "sample_url": "/ura/samples/pt-BR-LeilaNeural.mp3" },
+    { "id": "pt-BR-LeticiaNeural",              "name": "Leticia",   "lang": "pt-BR", "gender": "female", "style": "professional", "description": "Profissional e clara", "sample_url": "/ura/samples/pt-BR-LeticiaNeural.mp3" },
+    { "id": "pt-BR-ManuelaNeural",              "name": "Manuela",   "lang": "pt-BR", "gender": "female", "style": "friendly",     "description": "Amigável e próxima", "sample_url": "/ura/samples/pt-BR-ManuelaNeural.mp3" },
+    { "id": "pt-BR-NicolauNeural",              "name": "Nicolau",   "lang": "pt-BR", "gender": "male",   "style": "casual",       "description": "Casual e descontraído", "sample_url": "/ura/samples/pt-BR-NicolauNeural.mp3" },
+    { "id": "pt-BR-ValerioNeural",              "name": "Valerio",   "lang": "pt-BR", "gender": "male",   "style": "expressive",   "description": "Expressivo e marcante", "sample_url": "/ura/samples/pt-BR-ValerioNeural.mp3" },
+    { "id": "pt-BR-YaraNeural",                 "name": "Yara",      "lang": "pt-BR", "gender": "female", "style": "expressive",   "description": "Expressiva e envolvente", "sample_url": "/ura/samples/pt-BR-YaraNeural.mp3" }
+  ]
+}
